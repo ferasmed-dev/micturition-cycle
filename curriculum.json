@@ -1,0 +1,48 @@
+{
+  "topic": "Micturition cycle and urodynamics",
+  "system": "Renal / urinary",
+  "specialty": "Urology",
+  "eciModule": "III — Formación clínica humana",
+  "typicalSubjects": [
+    "Fisiología",
+    "Fisiopatología",
+    "Urología",
+    "Nefrología y Urología",
+    "Geriatría"
+  ],
+  "mirRelevant": true,
+  "keywords_es": [
+    "ciclo miccional",
+    "fase de llenado",
+    "fase de vaciado",
+    "inervación vesical",
+    "suelo pélvico",
+    "incontinencia de urgencia",
+    "incontinencia de esfuerzo",
+    "obstrucción",
+    "detrusor hipoactivo",
+    "disinergia",
+    "urodinámica",
+    "flujometría",
+    "ALPP"
+  ],
+  "keywords_en": [
+    "micturition cycle",
+    "bladder filling",
+    "voiding",
+    "bladder innervation",
+    "pelvic floor",
+    "urge incontinence",
+    "stress incontinence",
+    "bladder outlet obstruction",
+    "underactive detrusor",
+    "dyssynergia",
+    "urodynamics",
+    "uroflowmetry",
+    "leak-point pressure"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ]
+}

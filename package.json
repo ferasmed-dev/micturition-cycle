@@ -1,0 +1,9 @@
+{
+  "name": "micturition-cycle",
+  "version": "1.0.0",
+  "description": "Interactive teaching simulator of the micturition cycle and urodynamics (filling, voiding, urge and stress incontinence, obstruction, underactive detrusor, dyssynergia). ES/EN.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
